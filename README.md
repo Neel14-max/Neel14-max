@@ -137,7 +137,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neel14-max&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neel14-max&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -150,28 +150,18 @@
 
 ---
 
-## 🔥 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel14-max&theme=react-dark"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/neel-raval-6b9b96285">
-    <img src="https://img.shields.io/badge/LinkedIn-Neel%20Raval-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
   <a href="mailto:neelnraval2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neel-raval-6b9b96285">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 💬 Quote
 
-> "Engineering intelligence from silicon to real-world systems."
+> "Code the logic. Design the system. Build the future."
