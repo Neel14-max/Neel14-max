@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Embedded Systems | VLSI | IoT | Real-Time Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+Developer;VLSI+%7C+ASIC+Design+Flow;IoT+%7C+Cloud+Integration;FreeRTOS+%7C+Real-Time+Systems;Future+Semiconductor+Engineer&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+Developer;VLSI+ASIC+Engineer;IoT+%7C+Cloud+Integration;FreeRTOS+%7C+Real-Time+Systems;Future+Semiconductor+Engineer&center=true&width=700&height=45">
 </p>
 
 ---
@@ -10,12 +10,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final Year **Electronics & Communication Engineering Student**
-- 🏆 **Vice President @ IETE Club**
 - ⚡ Passionate about **Embedded Systems, VLSI & IoT**
 - 🔬 Hands-on with **hardware + firmware co-design**
 - 📊 Built **Firebase + Power BI dashboards**
-- 🚀 Interested in **Semiconductor, Embedded Linux & ASIC Design**
-- 📫 Email: **your-email@example.com**
+- 🚀 Interested in **System Development, Linux & ASIC Design**
+- 📫 Email: **neelnraval2006.com**
 
 ---
 
@@ -85,14 +84,14 @@ Real-time task scheduling system.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neel14-max&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect
 
-LinkedIn: YOUR_LINKEDIN  
+LinkedIn: www.linkedin.com/in/neel-raval-6b9b96285  
 
 ---
 
