@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+Developer;VLSI+%7C+FPGA+Learner;IoT+%7C+Real-Time+Systems&center=true&width=600&height=45">
 </p>
----
+
 
 ## 👨‍💻 About Me
 
@@ -143,7 +143,6 @@
   <img src="https://github.com/Neel14-max/Neel14-max/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
 
 
 ## 🌐 Connect With Me
@@ -155,7 +154,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
 
 ## 💬 Quote
 
