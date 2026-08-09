@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Neel%20Raval&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20IoT&descSize=18&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Neel%20Raval&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20IoT&descSize=18&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Neel Raval</h1>
@@ -131,8 +131,9 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neel14-max&show_icons=true&theme=tokyonight"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Neel14-max"/>
 </p>
 ---
 
