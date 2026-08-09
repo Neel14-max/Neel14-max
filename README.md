@@ -1,8 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Neel%20Raval&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Systems%20%7C%20VLSI%20%7C%20IoT&descSize=18&descAlignY=60"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Neel Raval</h1>
-<h3 align="center">🚀 Embedded Systems | VLSI | IoT | Real-Time Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+Developer;VLSI+ASIC+Engineer;IoT+%7C+Cloud+Integration;FreeRTOS+%7C+Real-Time+Systems;Future+Semiconductor+Engineer&center=true&width=700&height=45">
+  <img src="https://komarev.com/ghpvc/?username=Neel14-max&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;ESP32+%7C+STM32+Developer;VLSI+%7C+FPGA+Learner;IoT+%7C+Real-Time+Systems&center=true&width=600&height=45">
 </p>
 
 ---
@@ -11,90 +18,160 @@
 
 - 🎓 Final Year **Electronics & Communication Engineering Student**
 - ⚡ Passionate about **Embedded Systems, VLSI & IoT**
-- 🔬 Hands-on with **hardware + firmware co-design**
-- 📊 Built **Firebase + Power BI dashboards**
-- 🚀 Interested in **System Development, Linux & ASIC Design**
-- 📫 Email: **neelnraval2006.com**
+- 🔬 Hands-on with **Hardware + Firmware Co-Design**
+- 📊 Built **Firebase + Power BI Real-Time Dashboards**
+- 🚀 Interested in **System Development, Embedded Linux & ASIC Design**
+- 📫 Email: **neelnraval2006@gmail.com**
 
 ---
 
 ## 🎯 Career Interests
 
-- Embedded Software Engineering  
-- Firmware Development  
-- VLSI & ASIC Design  
-- FPGA & Digital Design  
-- Embedded Linux  
-- IoT Systems  
-- Real-Time Systems  
+- 🚀 Embedded Software Engineering  
+- ⚙️ Firmware Development  
+- 🧠 VLSI & ASIC Design  
+- 🔌 FPGA & Digital Design  
+- 🐧 Embedded Linux  
+- 📡 IoT Systems  
+- ⏱️ Real-Time Systems  
 
 ---
 
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
-C • Embedded C • Python • Verilog (Basic)  
+
+- C  
+- Embedded C  
+- Python  
+- Verilog (Basic)  
 
 ---
 
 ### 🔧 Embedded Platforms
-ESP32 • STM32 • Arduino • ARM Cortex • FPGA (Basics)  
+
+- ESP32  
+- STM32  
+- Arduino  
+- ARM Cortex  
+- FPGA (Basics)  
 
 ---
 
 ### ⚙️ Development Tools
-STM32CubeIDE • Keil µVision • Arduino IDE • VS Code • MATLAB • Git • Power BI  
+
+- STM32CubeIDE  
+- Keil µVision  
+- Arduino IDE  
+- VS Code  
+- MATLAB  
+- Git  
+- Power BI  
 
 ---
 
 ### 🐧 Embedded & RTOS
-FreeRTOS • Task Scheduling • Interrupts • Timers • Multithreading (Basics)  
+
+- FreeRTOS  
+- Task Scheduling  
+- Interrupt Handling  
+- Timers  
+- Multithreading (Basics)  
 
 ---
 
 ### 🔗 Communication Protocols
-UART • SPI • I2C • GPIO • MQTT  
+
+- UART  
+- SPI  
+- I²C  
+- GPIO  
+- MQTT  
 
 ---
 
 ### 📡 IoT & Cloud
-Firebase • Real-time Monitoring • Data Logging  
+
+- Firebase  
+- Real-time Monitoring  
+- Data Logging  
 
 ---
 
 ## 🚀 Projects
 
 ### 🌱 Smart Earthing Monitoring System
-Real-time leakage current & earthing monitoring using ESP32 + sensors.
+- Real-time leakage current & earthing monitoring  
+- ESP32 + CT Sensor + INA333 + ADS1115  
+- Cloud dashboard integration  
+
+---
 
 ### 🌾 Smart Agriculture System
-Automated irrigation system with sensor-based control.
+- Automated irrigation system  
+- Sensor-based decision making  
+- Real-time monitoring & alerts  
+
+---
 
 ### 🚦 FPGA Traffic Controller
-Verilog-based system with emergency override.
+- Verilog-based design  
+- Emergency vehicle priority override  
+- Testbench verified  
 
-### 📡 UART System
-TX/RX design using FSM.
+---
+
+### 📡 UART Communication System
+- UART TX/RX design  
+- FSM-based architecture  
+- Self-checking testbench  
+
+---
 
 ### 📊 FreeRTOS System Monitor
-Real-time task scheduling system.
+- Real-time task scheduling  
+- Multi-tasking system using RTOS  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neel14-max&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neel14-max&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect
+## 🐍 Contribution Snake
 
-LinkedIn: www.linkedin.com/in/neel-raval-6b9b96285  
+<p align="center">
+  <img src="https://github.com/Neel14-max/Neel14-max/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🔥 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel14-max&theme=react-dark"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neel-raval-6b9b96285">
+    <img src="https://img.shields.io/badge/LinkedIn-Neel%20Raval-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="mailto:neelnraval2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 ## 💬 Quote
 
-"Engineering intelligence from silicon to real-world systems."
+> "Engineering intelligence from silicon to real-world systems."
